@@ -8,6 +8,6 @@ This toolkit is for SubDomains Enumeration,enjoy it!
 
 
 ```
-#Usage#
+[ Usage ]
 
 ./sub.sh <Domain-Name>```
