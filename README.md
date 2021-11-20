@@ -2,12 +2,12 @@
 
 
 
-this toolkit for SubDomain Scanning,enjoy it!
+This toolkit is for SubDomains Enumeration,enjoy it!
 
 
 
 
-
+```
 #Usage#
 
-`./sub.sh <Domain-Name>`
+./sub.sh <Domain-Name>```
